@@ -23,6 +23,8 @@ ELLIE is a simple conversational chatbot built with Python and ChatterBot for th
 ├── chatbot.py
 ├── data/
 │   └── conversation-data.yml
+├── screenshots/
+|   └── chatbotconversation.png
 ├── requirements.txt
 ├── README.md
 └── .gitignore
