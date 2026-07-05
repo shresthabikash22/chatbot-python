@@ -1,0 +1,5 @@
+chatterbot
+chatterbot-corpus
+click
+PyYAML
+spacy

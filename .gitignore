@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+chatbot_env/
+venv/
+.env/
+
+# Database
+*.sqlite3
+
+# IDE files
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
